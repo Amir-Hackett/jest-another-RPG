@@ -39,4 +39,4 @@ and run `npm run test` from the command line.
 If you have any questions about the repo, please [open an issue](https://github.com/Amir-Hackett/jest-another-RPG/issues) or contact me via email at amir.hackett@gmail.com. You can find more of my work on my GitHub, [Amir-Hackett](https://https://github.com/Amir-Hackett/).
     
 ## Credits
-* Made by [Amir Hackett]
+Made by [Amir Hackett]
